@@ -1,0 +1,22 @@
+[
+{
+    "pk": 1, 
+    "model": "manozodynas.user", 
+    "fields": {
+        "username": "admin", 
+        "first_name": "", 
+        "last_name": "", 
+        "is_active": true, 
+        "email_approved": false, 
+        "is_superuser": true, 
+        "is_staff": true, 
+        "last_login": "2014-03-31T11:53:46.311", 
+        "groups": [], 
+        "user_permissions": [], 
+        "organization": null, 
+        "password": "pbkdf2_sha256$12000$mJ2q0cHiPwDS$FGEbWAdAIYMxJAN7/43eZ7UfTiagOWBDPJKNPAIOKAA=", 
+        "email": "admin@example.com", 
+        "date_joined": "2014-03-31T11:53:46.311"
+    }
+}
+]
