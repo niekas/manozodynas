@@ -6,7 +6,7 @@ from django.contrib.staticfiles.urls import staticfiles_urlpatterns
 from .views import index_view
 
 urlpatterns = patterns('',
-    url(r'^$', index_view, name='login'),
+    url(r'^$', index_view, name='index'),
 )
 
 urlpatterns += staticfiles_urlpatterns()
