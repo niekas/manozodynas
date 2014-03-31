@@ -157,7 +157,6 @@ INSTALLED_APPS = (
     'south',
 
     'django_nose',
-    'test_utils',
 
     'manozodynas',
     'debug_toolbar',
