@@ -160,6 +160,7 @@ INSTALLED_APPS = (
 
     'manozodynas',
     'debug_toolbar',
+    'lxml',
 
     # Uncomment the next line to enable the admin:
     # 'django.contrib.admin',
