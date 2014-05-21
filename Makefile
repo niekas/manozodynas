@@ -2,7 +2,7 @@
 
 prepare_env:
 	rm -fr ~/.buildout
-	sudo python ez_setup.py
+	python ez_setup.py --user
 	python bootstrap.py
 	bin/buildout
 	mkdir var || touch var/db
